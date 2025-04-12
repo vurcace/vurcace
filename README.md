@@ -1,2 +1,2 @@
 i main js, py, c#<br>
-discord: vurcace
+dc: vurcace
